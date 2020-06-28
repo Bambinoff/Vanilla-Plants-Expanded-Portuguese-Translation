@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Various -->
+
+	<VCE_PlumsDrying>Ameixas secando</VCE_PlumsDrying>
+	<VCE_PlumsCurrentlyFrozen>Essas ameixas são congeladas e nõo secam em ameixas secas</VCE_PlumsCurrentlyFrozen>
+	<VCE_PlumsCurrentlyRefrigerated>Essas ameixas sõo refrigeradas e nõo secam em ameixas secas, tõo rápido quanto elas podem (seca em {0})</VCE_PlumsCurrentlyRefrigerated>
+	<VCE_PlumsDryingCorrectly>Essas ameixas estõo secando corretamente em ameixas secas (seca em {0})</VCE_PlumsDryingCorrectly>
+
+
+</LanguageData>

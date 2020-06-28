@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<VCE_RawApple.label>maçãs</VCE_RawApple.label>
+		<VCE_RawApple.description>Maçã é o fruto da macieira, elas são vermelhas e brilhantes. Maçãs são saborosas e prática de carregar, é usada como ingrediente de sobremesas e na produção de sidra desde o in&#237;cio da humanidade.</VCE_RawApple.description>
+
+		<VCE_RawPeach.label>pêssegos</VCE_RawPeach.label>
+		<VCE_RawPeach.description>Uma fruta comest&#237;vel e suculenta chamada pêssego ou nectarina. Um pêssego maduro terá um aroma perfumado e será delicioso comido fresco direto do pé.</VCE_RawPeach.description>
+
+		<VCE_RawCherry.label>cerejas</VCE_RawCherry.label>
+		<VCE_RawCherry.description>Pequenas cerejas vermelha-arroxeada. As cerejas são notáveis por exigir uma breve estação fria, e assim rapidamente se tornaram as favoritas entre as culturas ocidentais do norte.</VCE_RawCherry.description>
+
+		<VCE_RawPlum.label>ameixas</VCE_RawPlum.label>
+		<VCE_RawPlum.description>Uma fruta roxa de pele lisa. Muitas culturas secam ameixas em ameixas secas para preservação a longo prazo. Em vez de apodrecer, uma vez passados os 15 dias, as ameixas secam em ameixas secas, que são consideradas alimentos em conserva.</VCE_RawPlum.description>
+
+		<VCE_RawPrunes.label>ameixas secas</VCE_RawPrunes.label>
+		<VCE_RawPrunes.description>Ameixas secas. As ameixas secas demoram muito tempo a deteriorar-se.</VCE_RawPrunes.description>
+
+		<VCE_RawPear.label>peras</VCE_RawPear.label>
+		<VCE_RawPear.description>Peras verdes crocantes. Embora inicialmente parecidas com as maçãs, as peras são um pouco mais fibrosas e menos doces.</VCE_RawPear.description>
+
+		<VCE_RawPricklyPear.label>figo-do-diabo</VCE_RawPricklyPear.label>
+		<VCE_RawPricklyPear.description>Frutos comest&#237;veis cor de rosa, semelhantes ao melão, usados historicamente tanto para lanches quanto para remédios por nativos do deserto.</VCE_RawPricklyPear.description>
+
+		<VCE_Bearberry.label>uva-de-urso</VCE_Bearberry.label>
+		<VCE_Bearberry.description>Estas são pequenas bagas cor de rosa, conhecidas como uva-de-urso ou uva ursina. Enquanto a uva-de-urso crua possui um sabor ácido e sem graça, após o cozimento surge uma doçura natural e os resultados podem ser muito mais agradáveis.</VCE_Bearberry.description>
+
+		<VCE_RawBanana.label>bananas</VCE_RawBanana.label>
+		<VCE_RawBanana.description>Bananas amarelas e alongadas, facilmente descascadas para revelar uma polpa profundamente saborosa e macia. Elas têm sido os favoritos dos humanos e de outros primatas nos trópicos há milênios.</VCE_RawBanana.description>
+
+<VCE_RawOrange.label>laranjas</VCE_RawOrange.label>
+<VCE_RawOrange.description>Esféricas e perfumada, as laranjas são notoriamente irritantes para descascar e bastante polpudas, mas conhecidas como uma das frutas mais suculentas, com um sabor variando de doce ao levemente ácido.</VCE_RawOrange.description>
+
+	</LanguageData>

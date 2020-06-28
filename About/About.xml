@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modMetaData>
+  <name>Vanilla Plants Expanded (Tradução Português)</name>
+<author>Bambino</author>
+<supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+<packageId>Bambino.TradVPlantsE</packageId>
+  	 <modDependencies>
+        <li>
+            <packageId>VanillaExpanded.VPlantsE</packageId>
+            <displayName>Vanilla Plants Expanded</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2134308522</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+	<loadAfter>
+	<li>VanillaExpanded.VPlantsE</li>
+	</loadAfter>
+  <description>Adiciona uma tradução em português ao mod "Vanilla Plants Expanded" de Oskar Potocki.
+ Compativel com <b>PortugueseBrazilian (Português Brasileiro)</b> e <b>Portuguese (Português Europeu)</b>
+<b>Atenção</b> Esse mod não inclui o mod original, somente arquivos da tradução em português estão incluidos. 
+ Vanilla Plants Expanded deve estar listado na lista de mods antes da tradução em português
+Core
+<b>Vanilla Plants Expanded</b>
+Vanilla Plants Expanded (Portuguese Translation)</description>
+</modMetaData>

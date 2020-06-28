@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<VCE_Grass.label>grama</VCE_Grass.label>
+		<VCE_Grass.description>Grama cultivada. Cresce em qualquer lugar onde há pouca luz e solo minimamente fértil.</VCE_Grass.description>
+		
+<VCE_TallGrass.label>grama alta</VCE_TallGrass.label>
+		<VCE_TallGrass.description>Grama alta cultivada. Cresce em qualquer lugar onde há pouca luz e solo minimamente fértil. Retarda qualquer um que se mova sobre ela.</VCE_TallGrass.description>
+		
+<VCE_Onion.label>planta de cebola</VCE_Onion.label>
+		<VCE_Onion.description>Um bulbo comest&#237;vel de sabor pungente, cheio de camadas e com quase tantas variedades quanto as aplicações de cozinha. Não pode sofrer os efeitos da praga.</VCE_Onion.description>
+		
+<VCE_Pumpkin.label>planta de abóbora</VCE_Pumpkin.label>
+		<VCE_Pumpkin.description>Tecnicamente uma baga gigante, as abóboras são conhecidas por serem triviais tanto para semear como para colher. No entanto, sua durabilidade significa maior peso e massa, sendo muito pesada para bacias de hidroponias.</VCE_Pumpkin.description>
+		
+<VCE_Pepper.label>planta de pimenta</VCE_Pepper.label>
+		<VCE_Pepper.description>Minúsculas vagens vermelhas, picantes, frequentemente usadas em molhos, condimentos ou pós. Enquanto o sabor em si é suave, a capsaicina contida no meio significa que os humanos os acham estranhamente viciante, se doloroso quando consumido em massa. Sabe-se que os animais evitam comer a planta inteiramente.</VCE_Pepper.description>
+		
+<VCE_Peas.label>planta de ervilha</VCE_Peas.label>
+		<VCE_Peas.description>Redondas sementes verdes escondidas com segurança em uma vagem carnuda. As ervilhas são notáveis por terem uma vida útil potencialmente longa quando secas adequadamente. Sabe-se que as plantas de ervilha têm muita sede e se beneficiarão muito das chuvas.</VCE_Peas.description>
+		
+<VCE_Eggplant.label>planta de beringela</VCE_Eggplant.label>
+		<VCE_Eggplant.description>Uma fruta esponjosa roxa bulbosa. A berinjela raramente é servida como acompanhamento, geralmente ocupando o papel do principal componente do prato como substituto da carne. Floresce em clima quente.</VCE_Eggplant.description>
+		
+<VCE_Cabbage.label>planta de repolho</VCE_Cabbage.label>
+		<VCE_Cabbage.description>Um vegetal verde folhoso, um tanto resistente, geralmente picado e depois fermentado ou cozido. Essa planta em particular parece altamente resistente a toxinas e radiação do ar.</VCE_Cabbage.description>
+		
+<VCE_Beet.label>planta de beterraba</VCE_Beet.label>
+		<VCE_Beet.description>Um vegetal semelhante a uma erva amplamente cultivado para humanos e gados, notavelmente nutritivo e historicamente usado na fabricação de corantes. Embora as beterrabas exijam solo rico, elas são bastante saudáveis e continuarão a crescer muito lentamente durante o inverno. Eles precisam ser plantados durante a estação de crescimento, no entanto.</VCE_Beet.description>
+		
+<VCE_Tomato.label>planta de tomate</VCE_Tomato.label>
+		<VCE_Tomato.description>Uma série de frutas vermelhas suculentas e brilhantes ligadas &#224; videira, usadas comumente como vegetal. O ensopado forte libera açúcares naturais e suaviza os ácidos contidos nele. Os tomates são facilmente removidos da videira sem ter que arrancar a planta.</VCE_Tomato.description>
+
+	</LanguageData>
